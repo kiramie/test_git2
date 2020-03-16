@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class IndexController {
     @RequestMapping("/git1")
     public String me01(){
-        return "TEST FOR GIT";
+        return "TEST FOR GIT";//开发者no1486的备注
     }
 }
