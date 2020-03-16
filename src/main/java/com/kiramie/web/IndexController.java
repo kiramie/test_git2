@@ -11,6 +11,6 @@ public class IndexController {
     }
     @RequestMapping("/git2")
     public String me02(){
-        return "TEST FOR GIT2";
+        return "TEST FOR GIT2";//开发者no1486的备注
     }
 }
